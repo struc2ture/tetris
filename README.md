@@ -1,4 +1,4 @@
-#Tetris in edi2tor!
+# Tetris in edi2tor!
 
 Tetris written as a "live scene" for the [edi2tor](https://github.com/struc2ture/edi2tor).
 
